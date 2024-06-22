@@ -1,5 +1,3 @@
-- redirect from prb.danimesq.com
-
 - favicon: instead of 176px, 256px! (then updt on /press/press-kit)
 - upload all files to Onchain IPFS, then add seal: "100% store in Onchain IPFS"
 

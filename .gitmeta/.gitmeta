@@ -1,83 +1,23 @@
-commit QmcJ9iQWfZUG3jPBfSpeqjPXdCbCCfG37pPnM9rDTPmD87
+commit QmeVVUFXDtVBzzEw7NM2akksrrBvDXPNcdbjDDzHmiiWv6
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: e36cb2da8afc9118d97b7a5de1172511d3f970b1c5d1ba5d2b6e040a67a2deab64813ef661444f37426cd1a18d8849daa861a46de2fc9d07cf090e4c9229678600
+Signature: cbd5be135896f9b87c84aedde192f20fb9d7e8da6b0087bc731ab4d85e7b21f82baab0e81c7b403c3aa81a702cad429fd1be23379da85f99becc9ccf01792dfc01
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmTHAf9KgueYNDzQJ59hWtbKdULGPNGmV4ds7jSgXmnykv
-Commit CID if containing only file hashes: QmUqWwuicZizoecxK6tvPgwEy24k5zmKBTABqZX75fh7CE
+Commit CID if including git's SHA1: QmdPmzZucoEHygPL7BVj4rA1yKq3C7wGsWMv24d4XzYd2K
+Commit CID if containing only file hashes: QmRiP8ANE5sqRW65HGjf1C1KHNhUPat2kmwufkJJ7yp6dp
 
 ------------------------------
 
 .gitmeta version: r8
 Local folder: /media/daniella/B/git/danimesq/Sites/subdomains/zoca
-Remote Name: 
-Remote URL: 
+Remote Name: origin
+Remote URL: https://github.com/danimesq/zoca.danimesq.com.git
 
 ------------------------------
 
 chown -h 1000:1000 'Tasks.txt'
 chmod 0664 'Tasks.txt'
-/usr/bin/touch -hcmd "2024-06-22 15:48:21.1206657000 -0300" 'Tasks.txt'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.7684066000 -0300" 'Tasks.txt'
-chown -h 1000:1000 'favicon.ico'
-chmod 0664 'favicon.ico'
-/usr/bin/touch -hcmd "2024-06-22 15:19:36.4725078000 -0300" 'favicon.ico'
-/usr/bin/touch -hcad "2024-06-22 15:20:37.0643132000 -0300" 'favicon.ico'
-chown -h 1000:1000 'favicon.ico.log.html5'
-chmod 0664 'favicon.ico.log.html5'
-/usr/bin/touch -hcmd "2024-06-22 15:20:03.6608783000 -0300" 'favicon.ico.log.html5'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.9483966000 -0300" 'favicon.ico.log.html5'
-chown -h 1000:1000 'favicon.png'
-chmod 0664 'favicon.png'
-/usr/bin/touch -hcmd "2024-06-22 15:18:00.4550685000 -0300" 'favicon.png'
-/usr/bin/touch -hcad "2024-06-22 15:18:02.5311019000 -0300" 'favicon.png'
-chown -h 1000:1000 'favicon.png.log.html5'
-chmod 0664 'favicon.png.log.html5'
-/usr/bin/touch -hcmd "2024-06-22 15:20:03.6608783000 -0300" 'favicon.png.log.html5'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.9723953000 -0300" 'favicon.png.log.html5'
-chown -h 1000:1000 'favicon.svg'
-chmod 0755 'favicon.svg'
-/usr/bin/touch -hcmd "2024-06-22 15:17:02.3400856000 -0300" 'favicon.svg'
-/usr/bin/touch -hcad "2024-06-22 15:17:19.4523846000 -0300" 'favicon.svg'
-chown -h 1000:1000 'img/social/button/lens.svg'
-chmod 0664 'img/social/button/lens.svg'
-/usr/bin/touch -hcmd "2024-06-22 15:07:16.6211163000 -0300" 'img/social/button/lens.svg'
-/usr/bin/touch -hcad "2024-06-22 15:07:19.0741082000 -0300" 'img/social/button/lens.svg'
-chown -h 1000:1000 'index.html'
-chmod 0664 'index.html'
-/usr/bin/touch -hcmd "2024-06-22 15:32:54.2303444000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.8744007000 -0300" 'index.html'
-chown -h 1000:1000 'logotype.png.log.html5'
-chmod 0664 'logotype.png.log.html5'
-/usr/bin/touch -hcmd "2024-06-22 15:28:31.5677516000 -0300" 'logotype.png.log.html5'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.9763950000 -0300" 'logotype.png.log.html5'
-chown -h 1000:1000 'press/press-kit/img/icon-plain.svg'
-chmod 0755 'press/press-kit/img/icon-plain.svg'
-/usr/bin/touch -hcmd "2024-06-22 00:41:57.8827739000 -0300" 'press/press-kit/img/icon-plain.svg'
-/usr/bin/touch -hcad "2024-06-22 15:14:11.0225808000 -0300" 'press/press-kit/img/icon-plain.svg'
-chown -h 1000:1000 'press/press-kit/img/logotype-plain_black.png.log.html5'
-chmod 0664 'press/press-kit/img/logotype-plain_black.png.log.html5'
-/usr/bin/touch -hcmd "2024-06-22 15:30:08.3103857000 -0300" 'press/press-kit/img/logotype-plain_black.png.log.html5'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.9793949000 -0300" 'press/press-kit/img/logotype-plain_black.png.log.html5'
-chown -h 1000:1000 'press/press-kit/img/logotype-plain_white.png.log.html5'
-chmod 0664 'press/press-kit/img/logotype-plain_white.png.log.html5'
-/usr/bin/touch -hcmd "2024-06-22 15:29:28.4981323000 -0300" 'press/press-kit/img/logotype-plain_white.png.log.html5'
-/usr/bin/touch -hcad "2024-06-22 15:48:25.9953940000 -0300" 'press/press-kit/img/logotype-plain_white.png.log.html5'
-chown -h 1000:1000 'press/press-kit/img/logotype-prb.png'
-chmod 0664 'press/press-kit/img/logotype-prb.png'
-/usr/bin/touch -hcmd "2024-06-22 15:24:04.6355944000 -0300" 'press/press-kit/img/logotype-prb.png'
-/usr/bin/touch -hcad "2024-06-22 15:24:07.0906177000 -0300" 'press/press-kit/img/logotype-prb.png'
-chown -h 1000:1000 'press/press-kit/img/logotype-prb.png.log.html5'
-chmod 0664 'press/press-kit/img/logotype-prb.png.log.html5'
-/usr/bin/touch -hcmd "2024-06-22 15:24:24.3177789000 -0300" 'press/press-kit/img/logotype-prb.png.log.html5'
-/usr/bin/touch -hcad "2024-06-22 15:48:26.0283922000 -0300" 'press/press-kit/img/logotype-prb.png.log.html5'
-chown -h 1000:1000 'press/press-kit/img/logotype-prb.svg'
-chmod 0755 'press/press-kit/img/logotype-prb.svg'
-/usr/bin/touch -hcmd "2024-06-22 10:47:11.8038245000 -0300" 'press/press-kit/img/logotype-prb.svg'
-/usr/bin/touch -hcad "2024-06-22 15:23:21.1071689000 -0300" 'press/press-kit/img/logotype-prb.svg'
-chown -h 1000:1000 'press/press-kit/index.html'
-chmod 0755 'press/press-kit/index.html'
-/usr/bin/touch -hcmd "2024-06-22 15:26:04.6056502000 -0300" 'press/press-kit/index.html'
-/usr/bin/touch -hcad "2024-06-22 15:26:06.1306626000 -0300" 'press/press-kit/index.html'
+/usr/bin/touch -hcmd "2024-06-22 16:07:56.1872805000 -0300" 'Tasks.txt'
+/usr/bin/touch -hcad "2024-06-22 16:08:08.4921559000 -0300" 'Tasks.txt'

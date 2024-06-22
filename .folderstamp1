@@ -1,0 +1,35 @@
+This folder: /media/daniella/B/git/danimesq/Sites/subdomains
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./pituoscar
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,36	Inode: 1332409     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-22 00:29:34.812631500 -0300
+Modify: 2024-06-22 00:31:28.523594400 -0300
+Change: 2024-06-22 00:31:28.523594400 -0300
+ Birth: 2024-06-22 00:29:34.812631500 -0300
+IPFS hash: 
+------------------------------
+  File: ./tellie
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,36	Inode: 2805791     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-06 12:16:57.393723600 -0300
+Modify: 2024-06-22 00:18:35.300425200 -0300
+Change: 2024-06-22 00:18:35.300425200 -0300
+ Birth: 2024-05-20 14:14:49.524202900 -0300
+IPFS hash: 
+------------------------------
+  File: ./zoca
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,36	Inode: 2098394     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-22 00:31:41.658474200 -0300
+Modify: 2024-06-22 00:31:41.658474200 -0300
+Change: 2024-06-22 00:31:43.672455700 -0300
+ Birth: 2024-06-22 00:31:41.658474200 -0300
+IPFS hash: 
+------------------------------

@@ -1,12 +1,12 @@
-commit QmPY6TJ4fWJAz9cxyPr6PzEs4YkhQ7ctX3w6y7fRtCaEzF
+commit QmYbeBSQhjzW6QrgydVqKGNDePNGVTNX3DHT2KXz6GwExN
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 9751cc2ddecde63328f5e84da223f5722593009c3b633745f84637a5bb95af5136db8b0e5bf9daa40d23997e6080e8990b54fdaece702675dae470416601f94201
+Signature: e74cbba896740a429b9a84df44830bc1247d6529e67fbbda471658c4e700afe90695783d00f43a8ac83cb1a1e31b576bf81dfac868357ee2e51003c1a6fb5c4200
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmeesQPYzRX3hMJ4PnCNGxL3Xix3uRbgoRH2ebdgaD5iDm
-Commit CID if containing only file hashes: 
+Commit CID if including git's SHA1: QmYnjc8CVXgLzFpPLjSKxcr3r6nc1CYzX6nzgFspigUvge
+Commit CID if containing only file hashes: QmXwwgtq7PhdsWrNTwVdFzFf9PeDcuxZUDV49USFQQiMLG
 
 ------------------------------
 
@@ -17,3 +17,11 @@ Remote URL: https://github.com/danimesq/zoca.danimesq.com.git
 
 ------------------------------
 
+chown -h 1000:1000 'img/samplesquares/7.svg'
+chmod 0755 'img/samplesquares/7.svg'
+/usr/bin/touch -hcmd "2020-05-26 00:59:28.9759980000 -0300" 'img/samplesquares/7.svg'
+/usr/bin/touch -hcad "2024-06-23 18:11:24.7685685000 -0300" 'img/samplesquares/7.svg'
+chown -h 1000:1000 'index.html'
+chmod 0664 'index.html'
+/usr/bin/touch -hcmd "2024-06-23 18:13:21.3361776000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-06-23 18:13:27.3253443000 -0300" 'index.html'

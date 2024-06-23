@@ -1,45 +1,12 @@
-This folder: /media/daniella/B/git/danimesq/Sites/subdomains/zoca
+This folder: /media/daniella/B/git/danimesq/Entertainment/Zoca/Site(soon)
 
-folderstamp version: r5
-Method: Recursive
-
-  File: ./.folderstamp
-  Size: 109       	Blocks: 8          IO Block: 4096   regular file
-Device: 8,36	Inode: 2632891     Links: 1
-Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2024-06-22 00:32:46.903876000 -0300
-Modify: 2024-06-22 00:32:46.927875800 -0300
-Change: 2024-06-22 00:32:46.927875800 -0300
- Birth: 2024-06-22 00:32:46.903876000 -0300
-IPFS hash: QmdTygW7z3PStzd2qmm7oehf95sKn8CRdfSfr8fJMXbrqF
-------------------------------
-  File: ./.folderstamp1
-  Size: 1354      	Blocks: 8          IO Block: 4096   regular file
-Device: 8,36	Inode: 2447266     Links: 1
-Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2024-06-22 00:31:47.404421600 -0300
-Modify: 2024-06-22 00:31:47.642419400 -0300
-Change: 2024-06-22 00:31:56.431338900 -0300
- Birth: 2024-06-22 00:31:47.404421600 -0300
-IPFS hash: QmQddR5G9V8obNzsHRF6AAterSw7A42QYN9PgJh1493ptP
-------------------------------
-  File: ./img/logotype.svg
-  Size: 23401     	Blocks: 48         IO Block: 4096   regular file
-Device: 8,36	Inode: 2515537     Links: 1
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2024-06-22 00:32:35.662979200 -0300
-Modify: 2024-05-18 19:57:30.185393100 -0300
-Change: 2024-06-22 00:32:16.559154400 -0300
- Birth: 2024-06-22 00:32:10.678208300 -0300
-IPFS hash: QmZSxcLbpEQPuRLNBJfepXT9BfVDqrwqfw9HBSLPkp9nn2
-------------------------------
-  File: ./img/sample_comicscover.svg
-  Size: 310110    	Blocks: 608        IO Block: 4096   regular file
-Device: 8,36	Inode: 2601676     Links: 1
-Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2024-06-22 00:32:36.793968800 -0300
-Modify: 2020-05-24 18:14:21.465131000 -0300
-Change: 2024-06-22 00:32:42.606915400 -0300
- Birth: 2024-06-22 00:32:36.536971100 -0300
-IPFS hash: QmZSYSNAoA5ZvQqoHmwnj4asoFsqSLD8XJbZ3D74ab1Gvj
+  File: ./Zoca-PRB Adventures-Explorer -> /media/daniella/B/git/Gamlr/Gamlr/Zoca-PRB Adventures-Explorer
+  Size: 62        	Blocks: 0          IO Block: 4096   symbolic link
+Device: 8,20	Inode: 2028739     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-16 05:07:01.269346600 -0300
+Modify: 2024-03-16 05:07:01.233346100 -0300
+Change: 2024-03-16 05:07:01.233346100 -0300
+ Birth: -
+IPFS hash: QmNdLS96ZTJLb8Q3dkMuaYQdG6vt3hyuE2R153n2SZE5n6
 ------------------------------

@@ -1,23 +1,63 @@
-commit QmeVVUFXDtVBzzEw7NM2akksrrBvDXPNcdbjDDzHmiiWv6
+commit QmPxtSQKJbNUpP7uDisR3zsARfyPsY9vG4fQiNT8CCgW6G
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: cbd5be135896f9b87c84aedde192f20fb9d7e8da6b0087bc731ab4d85e7b21f82baab0e81c7b403c3aa81a702cad429fd1be23379da85f99becc9ccf01792dfc01
+Signature: f25fb0e5538aa3d97898e43653c0ce66d8eee93ad66075805ea959945908bdd400417584dbe12bc35816abb32698614e490072d2bbecbeb794e02a087b8d048e01
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmdPmzZucoEHygPL7BVj4rA1yKq3C7wGsWMv24d4XzYd2K
-Commit CID if containing only file hashes: QmRiP8ANE5sqRW65HGjf1C1KHNhUPat2kmwufkJJ7yp6dp
+Commit CID if including git's SHA1: QmQoqwruPjkNiCbV3TuDWz1E3Suxuia2ug2Z6JuAG4Gcbk
+Commit CID if containing only file hashes: QmTC7tX6V2AdmhhBCHZF4ZF5QDnYXWANCLfxoPpAo8NDJT
 
 ------------------------------
 
 .gitmeta version: r8
-Local folder: /media/daniella/B/git/danimesq/Sites/subdomains/zoca
+Local folder: /media/daniella/B/git/danimesq/Entertainment/Zoca/Sites/Site
 Remote Name: origin
 Remote URL: https://github.com/danimesq/zoca.danimesq.com.git
 
 ------------------------------
 
-chown -h 1000:1000 'Tasks.txt'
-chmod 0664 'Tasks.txt'
-/usr/bin/touch -hcmd "2024-06-22 16:07:56.1872805000 -0300" 'Tasks.txt'
-/usr/bin/touch -hcad "2024-06-22 16:08:08.4921559000 -0300" 'Tasks.txt'
+chown -h 1000:1000 '.folderstamp1'
+chmod 0755 '.folderstamp1'
+/usr/bin/touch -hcmd "2023-11-05 20:38:41.5749806000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.7317053000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-03-16 05:07:05.4614025000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.7317053000 -0300" '.folderstamp2'
+chown -h 1000:1000 '.folderstamp3'
+chmod 0664 '.folderstamp3'
+/usr/bin/touch -hcmd "2024-06-22 00:31:47.6424194000 -0300" '.folderstamp3'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.7327053000 -0300" '.folderstamp3'
+chown -h 1000:1000 '.folderstamp4'
+chmod 0664 '.folderstamp4'
+/usr/bin/touch -hcmd "2024-06-22 00:32:47.2218731000 -0300" '.folderstamp4'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.7807037000 -0300" '.folderstamp4'
+chown -h 1000:1000 '.folderstamp5'
+chmod 0664 '.folderstamp5'
+/usr/bin/touch -hcmd "2024-06-22 14:55:28.5516847000 -0300" '.folderstamp5'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.8297020000 -0300" '.folderstamp5'
+chown -h 1000:1000 '.folderstamp5.log.html5'
+chmod 0664 '.folderstamp5.log.html5'
+/usr/bin/touch -hcmd "2024-06-22 14:55:54.1534893000 -0300" '.folderstamp5.log.html5'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.8347019000 -0300" '.folderstamp5.log.html5'
+chown -h 1000:1000 '.folderstamp6'
+chmod 0755 '.folderstamp6'
+/usr/bin/touch -hcmd "2023-11-06 01:20:15.3529028000 -0300" '.folderstamp6'
+/usr/bin/touch -hcad "2024-06-23 12:22:56.8717006000 -0300" '.folderstamp6'
+chown -h 1000:1000 '.folderstamp7'
+chmod 0664 '.folderstamp7'
+/usr/bin/touch -hcmd "2024-06-23 12:23:00.8575664000 -0300" '.folderstamp7'
+/usr/bin/touch -hcad "2024-06-23 12:23:08.4253115000 -0300" '.folderstamp7'
+chown -h 1000:1000 'logotype-0.svg'
+chmod 0755 'logotype-0.svg'
+/usr/bin/touch -hcmd "2020-05-24 18:14:21.4651310000 -0300" 'logotype-0.svg'
+/usr/bin/touch -hcad "2024-06-23 12:22:19.0879749000 -0300" 'logotype-0.svg'
+chown -h 1000:1000 'logotype-1.svg'
+chmod 0755 'logotype-1.svg'
+/usr/bin/touch -hcmd "2024-05-18 19:54:48.7694174000 -0300" 'logotype-1.svg'
+/usr/bin/touch -hcad "2024-06-23 12:22:19.0989745000 -0300" 'logotype-1.svg'
+chown -h 1000:1000 'logotype-2.svg'
+chmod 0755 'logotype-2.svg'
+/usr/bin/touch -hcmd "2024-05-18 19:57:30.1853931000 -0300" 'logotype-2.svg'
+/usr/bin/touch -hcad "2024-06-23 12:22:19.0999745000 -0300" 'logotype-2.svg'

@@ -4,13 +4,13 @@ background:#e3e2e2!important
 }
 
 .header, header {
-    background: #00a2e8!important;
+    background: #11511f!important;
 }
 
 .logo,logo {
     width: 140px !important;
     height: 42px !important;
-    background: url(../logotype.png) no-repeat no-repeat 1px 4px !important;
+    background: url(../press/press-kit/img/logotype-plain_white.svg) no-repeat no-repeat 1px 4px !important;
     /*background-size: auto !important;*/
     /*background-size: 120px !important;*/
     background-size: 63px !important;

@@ -1,12 +1,12 @@
-commit Qmdf2AfoH2RQZTvWLVNUerpudfDKb1sRSn52c9e6uYCDcN
+commit QmeyiwfQ63r5vAeCeuSksrwrvWXBgYMhNexgH4iCFJG121
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 07741437c3a262d27fbe2cb80098080c6f2fa8455b088bfd55f200c1c054934d1c8e9cbe0006529ac1721d1fcbd06d06955ebfba620118aea0e95bed5fc56eb501
+Signature: 2a83fdb8ad32b87c057034d15b4e38c25458ef28c452574b07e0c7044b88980c1deaeac3eaf51951b6f9fa219c62f1927e2187ee89b2403b4c93f0729ef52a8a01
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmWD9PdjY78B7VzuaD29qZQ3bUgyTTniZZMQdnVq8jALYS
-Commit CID if containing only file hashes: QmTTUP5qAN1rp8kNGBLdUrqjRXEBfjioY1kPDhkdYHu5Eq
+Commit CID if including git's SHA1: QmYPTAoExtD7dS55TMLMFK52DbNAMZRztULbr9SQ3mhngw
+Commit CID if containing only file hashes: QmZEGwfRTmHmx26FTvh4LsoHHMxNABE3AbwjaqPwnFVndv
 
 ------------------------------
 
@@ -17,7 +17,11 @@ Remote URL: https://github.com/danimesq/zoca.danimesq.com.git
 
 ------------------------------
 
-chown -h 1000:1000 'index.html'
-chmod 0664 'index.html'
-/usr/bin/touch -hcmd "2024-06-23 18:57:52.4270749000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-06-23 18:57:57.7281009000 -0300" 'index.html'
+chown -h 1000:1000 'css/page-custom.css'
+chmod 0755 'css/page-custom.css'
+/usr/bin/touch -hcmd "2024-08-21 16:35:13.8601612000 -0300" 'css/page-custom.css'
+/usr/bin/touch -hcad "2024-08-21 16:35:17.9779072000 -0300" 'css/page-custom.css'
+chown -h 1000:1000 'press/press-kit/index.html'
+chmod 0755 'press/press-kit/index.html'
+/usr/bin/touch -hcmd "2024-08-21 16:33:25.6207731000 -0300" 'press/press-kit/index.html'
+/usr/bin/touch -hcad "2024-08-21 16:33:32.0140007000 -0300" 'press/press-kit/index.html'
